@@ -1,3 +1,5 @@
 /.settings
 /target
 .project
+/.vscode
+algs4.jar
